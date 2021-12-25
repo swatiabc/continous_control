@@ -111,7 +111,7 @@ OUNoise:
 ![deep q network architecture](media/training_score.png)
 ### Plot of rewards
 
-![deep q network architecture](media/output.png)
+![deep q network architecture](media/output_image.png)
 
 ## Ideas for future work
 
